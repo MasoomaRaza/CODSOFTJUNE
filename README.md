@@ -1,4 +1,11 @@
 # CODSOFTJUNE
 I applied for a Python programming internship at Codsof and completed the following three tasks for their evaluation.
+
 #TO_DO_LIST
+This project aims to provide you with a user-friendly and efficient tool to keep track of your tasks, deadlines, and priorities. Whether you're a student managing assignments, a professional juggling work tasks, or simply someone looking to stay on top of daily chores, our Python To-Do List is here to help. 
+
 #CONTACT_DIRECTORY_SYSTEM
+This program allows users to manage their contacts by performing various operations such as adding, removing, searching, and displaying contacts. The code has been refactored to enhance efficiency, readability, and user interaction. It covers tasks related to initializing a phonebook, creating a user-friendly menu, and implementing contact search functionality. This improved version aims to showcase effective programming practices while providing a functional and user-friendly contacts management system.
+
+#CALCULATOR
+
