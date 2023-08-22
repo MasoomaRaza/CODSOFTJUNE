@@ -1,5 +1,5 @@
 # CODSOFTJUNE
-I applied for a Python programming internship at Codsof and completed the following three tasks for their evaluation.
+I applied for a Python programming internship at Codsoft and completed the following three tasks for their evaluation.
 
 #TO_DO_LIST
 This project aims to provide you with a user-friendly and efficient tool to keep track of your tasks, deadlines, and priorities. Whether you're a student managing assignments, a professional juggling work tasks, or simply someone looking to stay on top of daily chores, our Python To-Do List is here to help. 
