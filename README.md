@@ -9,3 +9,6 @@ This program allows users to manage their contacts by performing various operati
 
 #CALCULATOR
 this is a project I've crafted for performing basic arithmetic operations with utmost ease. This user-friendly calculator lets you effortlessly carry out addition, subtraction, multiplication, and division tasks through a simple and intuitive interface. Crunch numbers seamlessly and experience the convenience of quick and accurate results, all thanks to this straightforward Python GUI Calculator.
+
+#Random_Password_Generator
+Elevate your security game with my Python Random Password Generator! Craft robust and unpredictable passwords effortlessly for heightened digital protection.
