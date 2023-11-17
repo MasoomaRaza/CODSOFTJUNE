@@ -1,4 +1,4 @@
-# Internship
+#Internship
 I applied for a Python programming internship and completed the following three tasks for their evaluation.
 
 #TO_DO_LIST
@@ -10,5 +10,8 @@ This program allows users to manage their contacts by performing various operati
 #CALCULATOR
 this is a project I've crafted for performing basic arithmetic operations with utmost ease. This user-friendly calculator lets you effortlessly carry out addition, subtraction, multiplication, and division tasks through a simple and intuitive interface. Crunch numbers seamlessly and experience the convenience of quick and accurate results, all thanks to this straightforward Python GUI Calculator.
 
-#Random_Password_Generator
+#RANDOM_PASSWORD_GENERATOR
 Elevate your security game with my Python Random Password Generator! Craft robust and unpredictable passwords effortlessly for heightened digital protection.
+
+#TEMPERATURE_CONVERTER
+Unveiling my Python Temperature Converter! Simplify your units effortlessly and convert between Celsius and Fahrenheit with ease.
